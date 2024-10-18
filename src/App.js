@@ -8,7 +8,7 @@ function App() {
 
   // JSONファイルからデータを取得する
   useEffect(() => {
-    fetch("/timetable/kuzuha/time_saturday.json")
+    fetch(`${process.env.PUBLIC_URL}/timetable/kuzuha/time_saturday.json`)
       .then((response) => response.json())
       .then((data) => {
         const now = new Date();
@@ -154,16 +154,25 @@ function App() {
         </thead>
         <tbody>
           {upcomingTrains.map((train) => (
-            <tr
-              key={train.ID}
-              style={{ color: getTimeColor(train.Hour, train.Min) }}
-            >
-              <td>{calculateRemainingMinutes(train.Hour, train.Min)}分</td>
-              <td>{train.via}</td>
-              <td>{`${train.Hour}:${train.Min.padStart(2, "0")}`}</td>
-              <td>{getArrivalTime(train.via, train.Hour, train.Min)}</td>
-              <td>{train.destination}</td>
-              <td>{train.platform}</td>
+            <tr key={train.ID}>
+              <td style={{ color: getTimeColor(train.Hour, train.Min) }}>
+                {calculateRemainingMinutes(train.Hour, train.Min)}分
+              </td>
+              <td style={{ color: getTimeColor(train.Hour, train.Min) }}>
+                {train.via}
+              </td>
+              <td style={{ color: getTimeColor(train.Hour, train.Min) }}>{`${
+                train.Hour
+              }:${train.Min.padStart(2, "0")}`}</td>
+              <td style={{ color: getTimeColor(train.Hour, train.Min) }}>
+                {getArrivalTime(train.via, train.Hour, train.Min)}
+              </td>
+              <td style={{ color: getTimeColor(train.Hour, train.Min) }}>
+                {train.destination}
+              </td>
+              <td style={{ color: getTimeColor(train.Hour, train.Min) }}>
+                {train.platform}
+              </td>
             </tr>
           ))}
         </tbody>
