@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kitayama-kuzuha/static/css/main.5a812780.css",
+    "main.css": "/kitayama-kuzuha/static/css/main.af6d129a.css",
     "main.js": "/kitayama-kuzuha/static/js/main.e2b798f9.js",
     "static/js/453.5680acf1.chunk.js": "/kitayama-kuzuha/static/js/453.5680acf1.chunk.js",
     "index.html": "/kitayama-kuzuha/index.html",
-    "main.5a812780.css.map": "/kitayama-kuzuha/static/css/main.5a812780.css.map",
+    "main.af6d129a.css.map": "/kitayama-kuzuha/static/css/main.af6d129a.css.map",
     "main.e2b798f9.js.map": "/kitayama-kuzuha/static/js/main.e2b798f9.js.map",
     "453.5680acf1.chunk.js.map": "/kitayama-kuzuha/static/js/453.5680acf1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a812780.css",
+    "static/css/main.af6d129a.css",
     "static/js/main.e2b798f9.js"
   ]
 }
