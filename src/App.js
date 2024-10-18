@@ -133,7 +133,7 @@ function App() {
   return (
     <div className="train-board">
       <header className="header">
-        <h1>大阪工業(北山中央)バス掲示板</h1>
+        <h1>大阪工業大学枚方(北山中央)バス時刻表</h1>
         <div className="current-time">
           現在時刻: {currentTime.toLocaleTimeString()}
         </div>
