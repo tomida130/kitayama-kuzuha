@@ -1,0 +1,570 @@
+[
+  {
+    "ID": "0",
+    "Hour": "16",
+    "Min": "53",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、田近二丁目、船橋"
+  },
+  {
+    "ID": "1",
+    "Hour": "17",
+    "Min": "01",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、田近二丁目、船橋"
+  },
+  {
+    "ID": "2",
+    "Hour": "17",
+    "Min": "09",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、田近二丁目、船橋"
+  },
+  {
+    "ID": "3",
+    "Hour": "17",
+    "Min": "27",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、田近二丁目、船橋"
+  },
+  {
+    "ID": "4",
+    "Hour": "17",
+    "Min": "37",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、田近二丁目、船橋"
+  },
+  {
+    "ID": "5",
+    "Hour": "17",
+    "Min": "44",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、田近二丁目、船橋"
+  },
+  {
+    "ID": "6",
+    "Hour": "17",
+    "Min": "56",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、田近二丁目、船橋"
+  },
+  {
+    "ID": "7",
+    "Hour": "18",
+    "Min": "36",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、田近二丁目、船橋"
+  },
+  {
+    "ID": "8",
+    "Hour": "18",
+    "Min": "53",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、田近二丁目、船橋"
+  },
+  {
+    "ID": "9",
+    "Hour": "19",
+    "Min": "26",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、田近二丁目、船橋"
+  },
+  {
+    "ID": "10",
+    "Hour": "19",
+    "Min": "41",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、田近二丁目、船橋"
+  },
+  {
+    "ID": "11",
+    "Hour": "5",
+    "Min": "51",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "12",
+    "Hour": "8",
+    "Min": "03",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "13",
+    "Hour": "8",
+    "Min": "13",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "14",
+    "Hour": "8",
+    "Min": "25",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "15",
+    "Hour": "9",
+    "Min": "05",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "16",
+    "Hour": "17",
+    "Min": "17",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "17",
+    "Hour": "19",
+    "Min": "11",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "18",
+    "Hour": "20",
+    "Min": "16",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "19",
+    "Hour": "21",
+    "Min": "10",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "20",
+    "Hour": "6",
+    "Min": "15",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "21",
+    "Hour": "6",
+    "Min": "35",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "22",
+    "Hour": "6",
+    "Min": "53",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "23",
+    "Hour": "7",
+    "Min": "13",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "24",
+    "Hour": "7",
+    "Min": "27",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "25",
+    "Hour": "7",
+    "Min": "43",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "26",
+    "Hour": "8",
+    "Min": "35",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "27",
+    "Hour": "8",
+    "Min": "46",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "28",
+    "Hour": "9",
+    "Min": "30",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "29",
+    "Hour": "9",
+    "Min": "57",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "30",
+    "Hour": "10",
+    "Min": "30",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "31",
+    "Hour": "10",
+    "Min": "57",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "32",
+    "Hour": "11",
+    "Min": "30",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "33",
+    "Hour": "11",
+    "Min": "57",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "34",
+    "Hour": "12",
+    "Min": "30",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "35",
+    "Hour": "12",
+    "Min": "57",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "36",
+    "Hour": "13",
+    "Min": "30",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "37",
+    "Hour": "13",
+    "Min": "57",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "38",
+    "Hour": "14",
+    "Min": "30",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "39",
+    "Hour": "14",
+    "Min": "57",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "40",
+    "Hour": "15",
+    "Min": "30",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "41",
+    "Hour": "15",
+    "Min": "57",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "42",
+    "Hour": "16",
+    "Min": "30",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "43",
+    "Hour": "18",
+    "Min": "11",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "44",
+    "Hour": "20",
+    "Min": "46",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "45",
+    "Hour": "21",
+    "Min": "35",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "46",
+    "Hour": "21",
+    "Min": "55",
+    "platform": "東行",
+    "destination": "樟葉駅行",
+    "via": "家具団地、船橋"
+  },
+  {
+    "ID": "47",
+    "Hour": "6",
+    "Min": "25",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "48",
+    "Hour": "6",
+    "Min": "41",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "49",
+    "Hour": "7",
+    "Min": "03",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "50",
+    "Hour": "7",
+    "Min": "35",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "51",
+    "Hour": "8",
+    "Min": "56",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "52",
+    "Hour": "9",
+    "Min": "42",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "53",
+    "Hour": "10",
+    "Min": "12",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "54",
+    "Hour": "10",
+    "Min": "42",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "55",
+    "Hour": "11",
+    "Min": "12",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "56",
+    "Hour": "11",
+    "Min": "42",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "57",
+    "Hour": "12",
+    "Min": "12",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "58",
+    "Hour": "12",
+    "Min": "42",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "59",
+    "Hour": "13",
+    "Min": "12",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "60",
+    "Hour": "13",
+    "Min": "42",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "61",
+    "Hour": "14",
+    "Min": "12",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "62",
+    "Hour": "14",
+    "Min": "42",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "63",
+    "Hour": "15",
+    "Min": "12",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "64",
+    "Hour": "15",
+    "Min": "42",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "65",
+    "Hour": "16",
+    "Min": "12",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "66",
+    "Hour": "16",
+    "Min": "42",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "67",
+    "Hour": "18",
+    "Min": "24",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、枚方ハイツ、船橋"
+  },
+  {
+    "ID": "68",
+    "Hour": "7",
+    "Min": "19",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、船橋"
+  },
+  {
+    "ID": "69",
+    "Hour": "7",
+    "Min": "53",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、船橋"
+  },
+  {
+    "ID": "70",
+    "Hour": "7",
+    "Min": "17",
+    "platform": "北行",
+    "destination": "樟葉駅行",
+    "via": "大阪工大、船橋"
+  }
+]

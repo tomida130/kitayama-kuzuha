@@ -1,0 +1,93 @@
+/* ベースのスタイル */
+body {
+  margin: 0;
+  font-family: "Arial", sans-serif;
+  background-color: #000;
+  color: #fff;
+}
+
+.train-board {
+  text-align: center;
+  padding: 20px;
+}
+
+.header {
+  color: yellow;
+  margin-bottom: 20px;
+}
+
+.header h1 {
+  font-size: 2.5rem;
+}
+.info {
+  color: white;
+  margin-bottom: 20px;
+}
+
+.current-time {
+  font-size: 1.5rem;
+}
+.train-table {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+  border-collapse: collapse;
+  font-size: 1.1rem;
+}
+
+.train-table th,
+.train-table td {
+  border: 1px solid #444;
+  padding: 8px 12px;
+  text-align: center;
+}
+
+.train-table th {
+  background-color: #222;
+  color: #fff;
+}
+
+.train-table td {
+  background-color: #111;
+  color: #fff;
+}
+
+.train-table td.type {
+  font-weight: bold;
+}
+
+.train-table td.type.special {
+  background-color: red;
+  color: white;
+}
+
+.train-table td.type.normal {
+  background-color: white;
+  color: black;
+}
+
+.train-table td.type.rapid {
+  background-color: orange;
+  color: black;
+}
+
+/* カラムの幅を調整 */
+.train-table td:nth-child(1) {
+  width: 110px; /* 残り時間 */
+}
+
+.train-table td:nth-child(2),
+.train-table td:nth-child(5) {
+  width: 450px; /* 経由、行き先 */
+}
+
+.train-table td:nth-child(3),
+.train-table td:nth-child(4),
+.train-table td:nth-child(6) {
+  width: 120px; /* 出発時刻、到着時刻、のりば */
+}
+
+.footer {
+  margin-top: 20px;
+  color: #888;
+}
