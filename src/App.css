@@ -91,3 +91,10 @@ body {
   margin-top: 20px;
   color: #888;
 }
+
+@media (max-width: 768px) {
+  .train-table th:nth-child(2),
+  .train-table td:nth-child(2) {
+    display: none; /* 経由地列を非表示に */
+  }
+}
